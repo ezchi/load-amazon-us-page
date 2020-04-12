@@ -1,0 +1,7 @@
+* Load Amazon US Page
+  :PROPERTIES:
+  :ID:       4CDC9158-92B4-4528-9B63-260A3B79FBE0
+  :END:
+
+  When current tab URL is amazon.com.au, click the extension icon or the toolbar
+  will reload the US page instead.
